@@ -73,16 +73,16 @@ Bem-vindo ao repositório oficial do Curso de Certificação AZ-900 ministrado p
 
 ## Projetos Desenvolvidos
 
-[Projeto 01 - Microzoft Azure - Localizando Serviços por Categoria](/projects/Projeto%2001%20-%20Microzoft%20Azure%20-%20Localizando%20Serviços%20por%20Categoria/README.md)
-[Projeto 02 - Criando Máquinas Virtuais no Azure](/projects/Projeto%2002%20-%20Criando%20Máquinas%20Virtuais%20no%20Azure/README.md)
-[Projeto 03 - Configurando uma Instância de Banco de Dados no Azure](/projects/Projeto%2003-%20Configurando%20uma%20Instância%20de%20Banco%20de%20Dados%20no%20Azure/README.md)
-[Projeto 04 - Construindo Arquiteturas no Azure](/projects/Projeto%2004%20-%20Construindo%20Arquiteturas%20no%20Azure/README.md)
-[Projeto 05 - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure](/projects/Projeto%2005%20-%20Configurando%20Recursos%20e%20Dimensionamentos%20em%20Máquinas%20Virtuais%20na%20Azure/README.md)
-[Projeto 06 - Dominando o Armazenamento na Azure](/projects/Projeto%2006%20-%20Dominando%20o%20Armazenamento%20na%20Azure/README.md)
-[Projeto 07 - Entendendo sobre Segurança e Identidade na Azure](/projects/Projeto%2007%20-%20Entendendo%20sobre%20Segurança%20e%20Identidade%20na%20Azure/README.md)
-[Projeto 08 - Otimizando Custos na Azure](/projects/Projeto%2008%20-%20Otimizando%20Custos%20na%20Azure/README.md)
-[Projeto 09 - Gerenciando Políticas em Acessos Azure](/projects/Projeto%2009%20-%20Gerenciando%20Políticas%20em%20Acessos%20Azure/README.md)
-[Projeto 10 - Ferramentas de Implantação na Azure](/projects/Projeto%2010%20-%20Ferramentas%20de%20Implantação%20na%20Azure/README.md)
-[Projeto 11 - Monitoramento Inteligente com o Azure](/projects/Projeto%2011%20-%20Monitoramento%20inteligente%20com%20o%20Azure/README.md)
+- [Projeto 01 - Microzoft Azure - Localizando Serviços por Categoria](/projects/Projeto%2001%20-%20Microzoft%20Azure%20-%20Localizando%20Serviços%20por%20Categoria/README.md)
+- [Projeto 02 - Criando Máquinas Virtuais no Azure](/projects/Projeto%2002%20-%20Criando%20Máquinas%20Virtuais%20no%20Azure/README.md)
+- [Projeto 03 - Configurando uma Instância de Banco de Dados no Azure](/projects/Projeto%2003-%20Configurando%20uma%20Instância%20de%20Banco%20de%20Dados%20no%20Azure/README.md)
+- [Projeto 04 - Construindo Arquiteturas no Azure](/projects/Projeto%2004%20-%20Construindo%20Arquiteturas%20no%20Azure/README.md)
+- [Projeto 05 - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure](/projects/Projeto%2005%20-%20Configurando%20Recursos%20e%20Dimensionamentos%20em%20Máquinas%20Virtuais%20na%20Azure/README.md)
+- [Projeto 06 - Dominando o Armazenamento na Azure](/projects/Projeto%2006%20-%20Dominando%20o%20Armazenamento%20na%20Azure/README.md)
+- [Projeto 07 - Entendendo sobre Segurança e Identidade na Azure](/projects/Projeto%2007%20-%20Entendendo%20sobre%20Segurança%20e%20Identidade%20na%20Azure/README.md)
+- [Projeto 08 - Otimizando Custos na Azure](/projects/Projeto%2008%20-%20Otimizando%20Custos%20na%20Azure/README.md)
+- [Projeto 09 - Gerenciando Políticas em Acessos Azure](/projects/Projeto%2009%20-%20Gerenciando%20Políticas%20em%20Acessos%20Azure/README.md)
+- [Projeto 10 - Ferramentas de Implantação na Azure](/projects/Projeto%2010%20-%20Ferramentas%20de%20Implantação%20na%20Azure/README.md)
+- [Projeto 11 - Monitoramento Inteligente com o Azure](/projects/Projeto%2011%20-%20Monitoramento%20inteligente%20com%20o%20Azure/README.md)
 
 ---
