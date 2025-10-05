@@ -10,7 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ---
-[![Status](https://img.shields.io/badge/status-desenvolvimento-yellow)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[![Status](https://img.shields.io/badge/status-Concluído-green)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/LICENSE)
 
 Bem-vindo ao repositório oficial do Curso de Certificação AZ-900 ministrado pela Digital Innovation One e Microsoft.
